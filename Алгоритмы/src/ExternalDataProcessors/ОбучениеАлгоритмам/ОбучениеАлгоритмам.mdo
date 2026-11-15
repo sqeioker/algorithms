@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f273e3f7-e8ac-43ba-b192-278e9013c566">
+  <producedTypes>
+    <objectType typeId="c3a125a1-05b3-4967-bb2e-a91b1e19b3b1" valueTypeId="366f55dc-a597-4f31-8a0a-7cec8e30cb7e"/>
+  </producedTypes>
+  <name>ОбучениеАлгоритмам</name>
+  <synonym>
+    <key>ru</key>
+    <value>Обучение алгоритмам</value>
+  </synonym>
+  <comment>Учебная обработка: коллекция алгоритмов с описанием и примером реализации на встроенном языке</comment>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="fc2083cc-53a3-4218-bbd8-e0669e210b9f"/>
+  <defaultForm>ExternalDataProcessor.ОбучениеАлгоритмам.Form.Форма</defaultForm>
+  <forms uuid="aa6e7398-0cf1-4af0-983e-166104e62ed4">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Обучение алгоритмам</value>
+    </synonym>
+  </forms>
+</mdclass:ExternalDataProcessor>
